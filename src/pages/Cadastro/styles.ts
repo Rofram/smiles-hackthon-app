@@ -7,6 +7,6 @@ export const Container = styled.View`
   background-color: #F5F5F5;
 `;
 
-export const Input = styled.TextInput`
-
+export const Text = styled.Text`
+  
 `;
